@@ -1,2 +1,3 @@
 # files
-store files
+store files for personal website
+
